@@ -6,8 +6,8 @@
 - ⚡ Motto **"I am ready to face any challenge that might be foolish enough to face me."**
 
 <p align="left">
-<a href="https://twitter.com/sreevaishnavm" target="blank"><img align="center" src="res/social/TWITTER.png" alt="sreevaishnavm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sree-vaishnav" target="blank"><img align="center" src="res/social/LINKDIN.png" alt="sree-vaishnav" height="30" width="40" /></a>
+<a href="https://twitter.com/sreevaishnavm" target="blank"><img align="center" src="res/social/TWITTER.png" alt="sreevaishnavm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
