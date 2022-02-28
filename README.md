@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm SreeVaishnav</h1>
+<h1 align="left">hola!, I'm SreeVaishnav 👋</h1>
 <img src="https://github.com/sree-vaishnav/sree-vaishnav/raw/main/svbanner.png" alt="banner that says sreevaishnav...">
 
 - 📫 How to reach me **sreevaishnavm@gmail.com**
 
 - ⚡ Motto **"I am ready to face any challenge that might be foolish enough to face me."**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sreevaishnavm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreevaishnavm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sree-vaishnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sree-vaishnav" height="30" width="40" /></a>
