@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm SreeVaishnav</h1>
+<img src="https://github.com/sree-vaishnav/sree-vaishnav/raw/main/svbanner.png" alt="banner that says sreevaishnav...">
 
 - 📫 How to reach me **sreevaishnavm@gmail.com**
 
