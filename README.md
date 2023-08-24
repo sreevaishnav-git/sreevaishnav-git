@@ -1,9 +1,8 @@
 <h1 align="left">hola!, I'm SreeVaishnav 👋</h1>
 <img src="https://github.com/sree-vaishnav/sree-vaishnav/raw/main/svbanner.png" alt="banner that says sreevaishnav...">
 
-- 📫 How to reach me **sreevaishnavm@gmail.com**
+- 📫 Get in touch **sreevaishnavm@gmail.com**
 
-- ⚡ Motto **"I am ready to face any challenge that might be foolish enough to face me."**
 
 <p align="left">
 <a href="https://linkedin.com/in/sree-vaishnav" target="blank"><img align="center" src="res/social/LINKDIN.png" alt="sree-vaishnav" height="30" width="40" /></a>
